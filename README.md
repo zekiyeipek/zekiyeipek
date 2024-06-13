@@ -1,5 +1,7 @@
 # 💫 About Me:
-Freelance Game Developer
+Freelance Software Engineer
+
+https://zekiyeipek.github.io/2d-portfolio/
 
 
 # 💻 Tech Stack:
